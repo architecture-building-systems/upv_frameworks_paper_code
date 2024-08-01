@@ -1,0 +1,4 @@
+/results/*
+*.smx
+*.lz4
+*.pickle

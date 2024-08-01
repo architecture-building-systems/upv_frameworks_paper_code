@@ -1,0 +1,2 @@
+date,scenario,simulation_type,n_workers,n_points,rad_par,runtime [sec]
+2024-02-29T09:10:10,models,irradiance,1,494,-ad 256 -lw 1.0e-5 -dc 1 -dt 0 -dj 0 -lw 1.0e-5 -ab 6 -ad 4096,157.02

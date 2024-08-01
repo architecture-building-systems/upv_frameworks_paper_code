@@ -1,0 +1,45 @@
+mask	rectangle			mask_rectangle	30	0.779271
+mask	triangle			mask_triangle	30	0.903342
+mask	random	squares	small	mask_random_squares_small	30	0.525976
+mask	random	squares	large	mask_random_squares_large	30	0.663495
+mask	organic			mask_organic	30	0.666927
+mask	circle			mask_circle	30	0.898941
+mask	ellipse			mask_ellipse	30	0.883369
+mask	ellipse			mask_ellipse	30	0.884049
+mask	rows			mask_rows	30	1
+mask	rows			mask_rows	10	0.899728
+mask	rows			mask_rows	50	0.996241
+mask	rows			mask_rows	70	0.906812
+mask	rows			mask_rows	90	1
+mask	columns			mask_columns	90	0.979563
+mask	columns			mask_columns	70	1
+mask	columns			mask_columns	50	1
+mask	columns			mask_columns	10	1
+mask	rectangle			mask_rectangle	10	0.824826
+mask	rectangle			mask_rectangle	50	0.818555
+mask	rectangle			mask_rectangle	70	0.997159
+mask	rectangle			mask_rectangle	90	0.949925
+mask	triangle			mask_triangle	90	0.977611
+mask	triangle			mask_triangle	70	0.966951
+mask	triangle			mask_triangle	50	0.948927
+mask	circle			mask_circle	10	0.80582
+mask	circle			mask_circle	50	0.94198
+mask	circle			mask_circle	70	0.971227
+mask	circle			mask_circle	90	0.979321
+mask	ellipse			mask_ellipse	90	0.96479
+mask	ellipse			mask_ellipse	70	0.927091
+mask	ellipse			mask_ellipse	50	0.917489
+mask	ellipse			mask_ellipse	10	0.76132
+mask	random	squares	small	mask_random_squares_small	10	0.396293
+mask	random	squares	small	mask_random_squares_small	50	0.640544
+mask	random	squares	small	mask_random_squares_small	70	0.796323
+mask	random	squares	small	mask_random_squares_small	90	0.962022
+mask	random	squares	large	mask_random_squares_large	90	0.92555
+mask	random	squares	large	mask_random_squares_large	70	0.792883
+mask	random	squares	large	mask_random_squares_large	50	0.703942
+mask	random	squares	large	mask_random_squares_large	10	0.599019
+mask	organic			mask_organic	10	0.454357
+mask	organic			mask_organic	50	0.831437
+mask	organic			mask_organic	70	0.892147
+mask	organic			mask_organic	90	0.94288
+mask	triangle			mask_triangle	10	0.904673

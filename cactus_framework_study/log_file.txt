@@ -1,0 +1,3 @@
+date,scenario,device_id,module_cover,host,simulation_type,n_negatives,n_workers,n_points,rad_par,runtime [sec]
+2024-02-05T16:49:39,base,D002,NA,B1111_1111_0,irradiance,0,7,4534,-ad 128 -lw 1.0e-1 -dc 1 -dt 0 -dj 0 -lw 0.01 -ab 2 -ad 1000,610.58
+2024-02-13T08:52:44,base,D002,NA,B1111_1111_0,irradiance,0,1,2233,-ad 128 -lw 1.0e-1 -dc 1 -dt 0 -dj 0 -lw 1 -ab 1 -ad 500,577.51

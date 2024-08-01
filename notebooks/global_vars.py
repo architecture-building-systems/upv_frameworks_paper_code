@@ -1,0 +1,30 @@
+SURFACE_AREA = 131.429025
+MODULE_DATA = {
+    "Technology": "Mono-c-Si",
+    "Bifacial": 0,
+    "STC": 235.2,
+    "PTC": 211.9,
+    "A_c": 1.573,
+    "Length": 1.618,
+    "Width": 0.972,
+    "N_s": 60,
+    "I_sc_ref": 8.6,
+    "V_oc_ref": 37.0,
+    "I_mp_ref": 7.84,
+    "V_mp_ref": 30.0,
+    "alpha_sc": 0.003784,
+    "beta_oc": -0.12173,
+    "T_NOCT": 45.4,
+    "a_ref": 1.572369,
+    "I_L_ref": 8.628778,
+    "I_o_ref": 4.956246e-10,
+    "R_s": 0.300444,
+    "R_sh_ref": 89.785065,
+    "Adjust": 14.428038,
+    "gamma_r": -0.458,
+    "BIPV": "N",
+    "Version": "SAM 2018.11.11 r2",
+    "Date": "1/3/2019",
+}
+MODULE_DIMS = (982.5, 1592.5) # height, width
+SURFACE_DIMS = ((MODULE_DIMS[0]*7),(MODULE_DIMS[1]*12)) # 7 tall, 12 wide
